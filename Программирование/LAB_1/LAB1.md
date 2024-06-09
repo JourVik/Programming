@@ -19,7 +19,7 @@ F:=0,314*e^a-0,512e^b*ln(a)/sin(b*p)
 вывод F
 кон
 Блок-схема:
-![](img-lab1-z1/diagram (1).png)
+![](img-lab1-z1/diagram(1).png)
 #### В5
 Алг 
 вещ a, b, F
@@ -29,7 +29,7 @@ F:=(sqrt(3)a*cos(e^b-1)*p/4)/0,5121*(1-ln(b/a))
 вывод F
 кон
 Блок схема: 
-![](img-lab1-z1/diagram (2).png)
+![](img-lab1-z1/diagram(2).png)
 #### В7
 Алг 
 вещ a, b, F
@@ -39,7 +39,7 @@ F:=sqrt(3)((0,127*e^(b/a)/1-sqrt(3)(cos((b/a)*p)))^2)
 вывод F
 кон
 Блок схема:
-![](img-lab1-z1/diagram (3).png)
+![](img-lab1-z1/diagram(3).png)
 #### В9
 Алг 
 вещ a, b, F
@@ -49,7 +49,7 @@ F:=sqrt(3)((0,719/b)*(b^2-a^2/a^2+b^2)+cos((ln(b))*p/6)
 вывод F
 кон
 Блок схема:
-![](img-lab1-z1/diagram (5).png)
+![](img-lab1-z1/diagram(5).png)
 #### В11
 Алг 
 вещ a, b, F
@@ -59,7 +59,7 @@ F:=(4,3sin[(a+1)p])/((b/a)*1-cos[(a+b)p]+ln(b))
 вывод F
 кон
 Блок схема:
-![](img-lab1-z1/diagram (6).png)
+![](img-lab1-z1/diagram(6).png)
 #### В13
 Алг 
 вещ a, b, F
