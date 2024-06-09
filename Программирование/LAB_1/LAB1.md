@@ -9,7 +9,7 @@ F:= ((0,75sqrt(b)-1/2sqrt(3)a)*sin(b*p/3))/cos[(a+b)^2+e^a]
 вывод F
 кон
 Блок-схема: 
-![](Программирование/LAB_1/img-lab1-z1/diagram.png)
+![](img-lab1-z1/diagram.png)
 #### В3
 Алг 
 вещ a, b, F
